@@ -9,7 +9,7 @@ def new1():
 
 
 def new2():
-    print("new2")
+print("new2")
 
 
 def new4():
