@@ -6,3 +6,7 @@ def main():
 
 def new1():
     print("new1")
+
+def new2():
+    print("new2")
+    
